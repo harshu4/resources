@@ -23,12 +23,12 @@ Yes, Follow the guidlines provided in Contribution.md
 
 Subjects will be the Main Folders
 Ex :-
-Algorithms
-    |
-    |---->Videos
-    |---->Books
-    |---->Blogs
-    |---->Notes
+Algorithms\
+    |\
+    |---->Videos\
+    |---->Books\
+    |---->Blogs\
+    |---->Notes\
   
   
 # want to help in maintaining ?
