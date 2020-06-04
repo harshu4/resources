@@ -22,13 +22,13 @@ Yes, Follow the guidlines provided in Contribution.md
 ## Format 
 
 Subjects will be the Main Folders
-Ex :-
+Ex :-\
 Algorithms\
     |\
     |---->Videos\
     |---->Books\
     |---->Blogs\
-    |---->Notes\
+    |---->Notes
   
   
 # want to help in maintaining ?
